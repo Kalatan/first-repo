@@ -1,4 +1,2 @@
 "Creating with Tortoise…"
-"New additional text"
 "Creating with Bash…"
-"Creating with Tortoise…"
